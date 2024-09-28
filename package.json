@@ -1,0 +1,11 @@
+{
+  "name": "note",
+  "type": "module",
+  "bin": {
+    "note": "./index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "yargs": "^17.7.2"
+  }
+}
